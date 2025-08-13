@@ -12,9 +12,6 @@ const nextConfig: NextConfig = {
         search: '',
       },
     ],
-  },
-  experimental: {
-    ppr: 'incremental'
   }
 };
 
